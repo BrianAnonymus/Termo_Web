@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('ruta-a-tu-archivo-de-fuentes/SFProDisplay-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
